@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1778943352309",
+    "latitude": 24.8333517,
+    "longitude": 46.73435,
+    "address": "Althumamah Road Road 13413 6953،, Riyadh, Riyadh Province, Saudi Arabia",
+    "note": null,
+    "savedAt": "2026-05-16T17:55:52.309705",
+    "temperature": 41.03,
+    "weatherCondition": "Clear",
+    "weatherIcon": "01d"
+  },
+  {
+    "id": "1780823826394",
+    "latitude": 24.8333517,
+    "longitude": 46.73435,
+    "address": "2977 Al Thoumamah Rd, Riyadh, Riyadh Province, Saudi Arabia",
+    "note": null,
+    "savedAt": "2026-06-07T12:17:06.394814",
+    "temperature": 42.01,
+    "weatherCondition": "Clear",
+    "weatherIcon": "01d"
+  },
+  {
+    "id": "1780824158250",
+    "latitude": 24.8333517,
+    "longitude": 46.73435,
+    "address": "2977 Al Thoumamah Rd, Riyadh, Riyadh Province, Saudi Arabia",
+    "note": null,
+    "savedAt": "2026-06-07T12:22:38.250944",
+    "temperature": 42.01,
+    "weatherCondition": "Clear",
+    "weatherIcon": "01d"
+  },
+  {
+    "id": "1780824440394",
+    "latitude": 24.8333517,
+    "longitude": 46.73435,
+    "address": "2977 Al Thoumamah Rd, Riyadh, Riyadh Province, Saudi Arabia",
+    "note": null,
+    "savedAt": "2026-06-07T12:27:20.394779",
+    "temperature": 42.01,
+    "weatherCondition": "Clear",
+    "weatherIcon": "01d"
+  }
+]
